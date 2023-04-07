@@ -5,7 +5,6 @@ This project aims to predict the presence of diabetes using a Support Vector Mac
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Methodology](#methodology)
-   - [Dependencies](#dependencies)
    - [Data Collection](#data-collection)
    - [Data Preprocessing](#data-preprocessing)
    - [Model Training](#model-training)
